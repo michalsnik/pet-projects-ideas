@@ -8,7 +8,7 @@
 The idea is to create an app that will display all of the upcoming space rockets' launches.
 
 **Resources**:
-- API: http://launchlibrary.net/1.2/docs/api.html
+- API: http://launchlibrary.net/docs/1.2/api.html
 
 **Similar apps**:
 - [Launch Library (web)](http://launchlibrary.net/)
